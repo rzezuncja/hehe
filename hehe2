@@ -21,7 +21,7 @@
 <table>
 <tr><td>Imię i nazwisko</td><td><input name="imienazwisko" type="text" size="30"/></td></tr>
 <tr><td>Numer indeksu</td><td><input name="nrindeksu" type="text"/></td></tr>
-<tr><td>Rok rozpoczęcia studiów</td><td><input name="rok" type="text" size="8"/></td></tr>
+<tr><td>Rok kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk studiów</td><td><input name="rok" type="text" size="8"/></td></tr>
 </table>
 <p>
 <input value="wyślij" type="submit"/>
