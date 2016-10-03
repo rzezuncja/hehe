@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+  "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="pl">
+<head>
+  <meta http-equiv="Content-type" content="application/xhtml+xml; charset=utf-8" />
+  <meta name="Description" content="Materiały Katedry Systemów Informacyjnych, Akademia Morska w Gdyni" />
+  <meta name="Keywords" content="" />
+  <meta name="Author" content="ER" />
+  <meta name="Generator" content="kED" />
+
+  <title> Formularze</title>
+	<script type="text/javascript" src="form1.js"></script>
+</head>
+
+<body>
+<h2> Wypełnij formularz </h2>
+
+<form id="formularz" action="" method="post" onSubmit="return sprawdzDane(this)">
+
+<table>
+<tr><td>Imię i nazwisko</td><td><input name="imienazwisko" type="text" size="30"/></td></tr>
+<tr><td>Numer indeksu</td><td><input name="nrindeksu" type="text"/></td></tr>
+<tr><td>Rok rozpoczęcia studiów</td><td><input name="rok" type="text" size="8"/></td></tr>
+</table>
+<p>
+<input value="wyślij" type="submit"/>
+<input value="wyczyść" type="reset"/>
+</p>
+</form>
+
+</body>
+</html>
+
+ 
